@@ -18,3 +18,6 @@
 ## 💡 Tecnologias Utilizadas
 - **Linguagem:** HTML, CSS e JavaScript
 - **Interface:** Web responsiva
+---
+## 🔗 Acesse o Projeto  
+ **Vercel:** [Clique aqui para acessar](https://clima-js-vert.vercel.app/)  
